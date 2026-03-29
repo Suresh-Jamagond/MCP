@@ -1,7 +1,7 @@
 # 🌐 MCP: Java-Powered Model Context Protocol Server
 ### *Bridging Enterprise Java with LLM Reasoning*
 
-This repository implements a high-performance **MCP Server** using **Java 21** and **Spring AI**. It allows LLMs like Google Gemini and Claude to securely execute native Java methods to perform system analysis and code reviews in real-time.
+This repository implements a high-performance **MCP Server** using **Java** and **Spring AI**. It allows LLMs like Google Gemini and Claude to securely execute native Java methods to perform system analysis and code reviews in real-time.
 
 ---
 
@@ -14,7 +14,7 @@ The **Model Context Protocol (MCP)** is an open standard that replaces fragmente
 ---
 
 ## 🛠️ Tech Stack
-* **Java 21**: Leveraging modern syntax and performance.
+* **Java**: Leveraging syntax and performance.
 * **Spring Boot 3.4+**: Providing the robust application context.
 * **Spring AI (MCP Starter)**: Implementing the official Model Context Protocol.
 * **Maven Wrapper (mvnw)**: Ensuring build consistency across environments.
